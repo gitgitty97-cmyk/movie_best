@@ -19,7 +19,7 @@
 </div>
 
 
-<img src="" 
+<img src="https://github.com/gitgitty97-cmyk/movie_best/blob/main/photo_2025-08-19_17-15-50.jpg?raw=true" 
      alt="示意图" 
      style="max-width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);" />
 
